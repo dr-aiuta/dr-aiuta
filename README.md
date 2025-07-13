@@ -7,7 +7,7 @@ _Engineering no-fluff systems that scale profitably._
 
 ## 🚀 About Me
 
-- **CTO & Co-Founder** of two bootstrapped, profitable SaaS startups in Brazil:
+- **CTO & Co-Founder** of two bootstrapped, profitable startups in Brazil:
   - **Oca Carioca:** End-to-end property-management platform (prop-/fin-tech)
   - **Hígia:** On-demand cleaning/laundry marketplace (two-sided)
 
@@ -20,7 +20,7 @@ _Engineering no-fluff systems that scale profitably._
 - **Next.js** SSR/SSG
 - **PostgreSQL**
 - **CloudAMQP/RabbitMQ**
-- **Heroku** & **AWS** deployments
+- **Heroku** deployments
 - **Clean Architecture** & **DDD**
 - **DevOps/GitOps:** CI/CD, IaC
 - **Product strategy & 10× scaling**
