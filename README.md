@@ -1,6 +1,6 @@
 # Hi, I'm dr-aiuta 👋
 
-**CTO & Co-Founder @ [Oca Carioca](https://ocacarioca.com) & [Hígia](https://higialimpeza.com)**  
+**CTO & Co-Founder @ [Oca Carioca](https://ocacarioca.com) & [Prummu](https://prummu.com)**  
 _Engineering no-fluff systems that scale profitably._
 
 ---
@@ -9,7 +9,7 @@ _Engineering no-fluff systems that scale profitably._
 
 - **CTO & Co-Founder** of two bootstrapped, profitable startups in Brazil:
   - **Oca Carioca:** End-to-end property-management platform (prop-/fin-tech)
-  - **Hígia:** On-demand cleaning/laundry marketplace (two-sided)
+  - **Prummu:** Products that connect identity, spend, operations, and messaging into one trustworthy platform.
 
 ---
 
@@ -30,14 +30,16 @@ _Engineering no-fluff systems that scale profitably._
 ## 📦 Flagship Projects
 
 - [Oca Carioca](https://ocacarioca.com) — End-to-end property-management SaaS
-- [Hígia](https://higialimpeza.com) — Two-sided cleaning/laundry marketplace
+- [Prummu](https://prummu.com) — Measurable operations for real-world properties
 - [pg-lightquery (npm)](https://www.npmjs.com/package/pg-lightquery) — Lightweight SQL helper for Node.js
+- [tyntec-sdk (npm)](https://www.npmjs.com/package/tyntec-sdk) — A TypeScript SDK for the Tyntec Conversations API (Tyntec, its yours, contact me)
+- [loggermock (npm)](https://www.npmjs.com/package/mocklogs) — A flexible and type-safe mock logger for testing and development with colored console output.
 
 ---
 
 ## 🏆 Key Achievements
 
-- Bootstrapped two SaaS platforms to profitability
+- Bootstrapped two platforms to profitability
 
 ---
 
