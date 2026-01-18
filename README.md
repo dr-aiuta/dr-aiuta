@@ -1,6 +1,6 @@
 # Hi, I'm dr-aiuta 👋
 
-**CTO & Co-Founder @ [Oca Carioca](https://ocacarioca.com) & [Prummu](https://prummu.com)** & [m2circle](https://m2circle.com)**
+**CTO & Co-Founder @ [Oca Carioca](https://ocacarioca.com) & [Prummu](https://prummu.com) & [m2circle](https://m2circle.com)**
 _Engineering no-fluff systems that scale profitably._
 
 ---
